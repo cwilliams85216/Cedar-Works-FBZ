@@ -288,8 +288,11 @@ hr {
   .nav-image {
     width: 40vh;
     padding-top: 10px;
+    
   }
-
+ .header1{
+   margin-left:10px;
+ }
   /*Banner Section*/
   .banner-container {
     padding: 50px;
